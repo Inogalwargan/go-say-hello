@@ -1,3 +1,3 @@
-module github.com/Inogalwargan/go-say-hello
+module github.com/Inogalwargan/go-say-hello/v2
 
 go 1.20
